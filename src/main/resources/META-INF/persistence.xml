@@ -6,6 +6,8 @@
 
 		<!-- Define las clases que serán mappeadas al conectare a la base de datos -->
 		<class>com.developer.projectjpa.entity.Disquera</class>
+		<class>com.developer.projectjpa.entity.Genero</class>
+		<class>com.developer.projectjpa.entity.SubGenero</class>
 
 		<properties>
 			<property name="javax.persistence.jdbc.driver"
